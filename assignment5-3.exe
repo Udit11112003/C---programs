@@ -1,0 +1,4 @@
+/*3.Create a class with an integer data member. Include functions for input and output in class.
+Count the number of times each function is called and display it.*/
+
+#include<iostrem>
